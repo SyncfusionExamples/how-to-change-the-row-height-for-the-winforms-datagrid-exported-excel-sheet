@@ -76,7 +76,7 @@ Private Sub ExportToExcel_Click(ByVal sender As Object, ByVal e As System.EventA
 End Sub
 ```
 
-![How to Change the Row Height for the Exported Excel Sheet in WinForms DataGrid](https://www.syncfusion.com/uploads/user/kb/wf/wf-46156/wf-46156_img1.png)
+![How to Change the Row Height for the Exported Excel Sheet in WinForms DataGrid](ChangingRowHeight.png)
 
 You can use **AutofitRows** method to adjust the row height of the exported excel sheet based on the content.
 
@@ -152,4 +152,6 @@ Private Sub ExportToExcel_Click(ByVal sender As Object, ByVal e As System.EventA
 End Sub
 ```
 
-![How to Change the Row Height for the Exported Excel Sheet in WinForms DataGrid](https://www.syncfusion.com/uploads/user/kb/wf/wf-46156/wf-46156_img2.png)
+![How to Change the Row Height for the Exported Excel Sheet in WinForms DataGrid](ChangingRowHeightBasedOnContent.png)
+
+Take a moment to peruse the [WinForms DataGrid - Excel Export](https://help.syncfusion.com/windowsforms/datagrid/exporttoexcel) documentation, where you can find about DataGrid with code examples.
